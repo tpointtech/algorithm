@@ -21,7 +21,7 @@
 
 ### Divide and Conquer
 * [Divide and Conquer Interview Questions and Practice Problems](https://medium.com/@codingfreak/divide-and-conquer-interview-questions-and-practice-problems-8855e45f4200)
-* [Differentiate between Divide & Conquer Method vs Dynamic Programming](https://www.javatpoint.com/divide-and-conquer-method-vs-dynamic-programming)
+* [Differentiate between Divide & Conquer Method vs Dynamic Programming](https://www.tpointtech.com/divide-and-conquer-method-vs-dynamic-programming)
 
 ### Greedy Algorithm
 * [Top 7 Greedy Algorithm Problems](https://medium.com/@codingfreak/top-7-greedy-algorithm-problems-3885feaf9430)
